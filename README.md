@@ -1,2 +1,2 @@
 # ENDU
-ENDU | LUA Aim Assisting, Typically Used For ROBLOX Games. 
+ENDU | LUA Aim Assist, Typically Used For ROBLOX Games. 
